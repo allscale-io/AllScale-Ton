@@ -1,3 +1,17 @@
+# AllScale
+
+AllScale is a platform designed to make stablecoin-based financial tools accessible, intuitive, and compliant for small businesses and individuals. Our mission is to create a world where any business, anywhere, can access fast, reliable, and low-cost financial tools—empowering teams and individuals with financial freedom and global reach.
+
+## What We Offer
+
+- **Payroll:** Automate cross-border payroll in stablecoins—simplify contractor payments, eliminate costly intermediaries, and ensure instant global delivery.
+- **Invoicing:** Create, e-sign, and send professional contracts and invoices in seconds. Get paid by clients in their preferred method and instantly receive stablecoin—maximizing liquidity, minimizing friction.
+- **Social Commerce:** Transform your followers into customers and do business in any messaging app. Embed a dynamic AllScale biolink on your social profiles, showcase your offerings, and securely collect instant stablecoin payments.
+
+AllScale is built to be intuitive, fast, and no-code-friendly, so you can focus on growing your business. We believe in financial inclusion, global workforce empowerment, and cost-efficient, scalable solutions for everyone—from solo entrepreneurs to global organizations.
+
+For more information, visit the [AllScale Knowledge Base](https://docs.allscale.io/).
+
 # AllScale TON Telegram Mini App
 
 A hackathon-ready demo for AllScale's invoicing and social commerce on TON, built as a Telegram Mini App.
@@ -50,14 +64,5 @@ npm run dev
 2. In BotFather, set the bot's domain to your deployed frontend (use ngrok for local dev).
 3. Add the bot to a chat and open as a Mini App.
 4. See [Telegram Mini Apps Guide](https://core.telegram.org/bots/webapps) for details.
-
----
-
-## Next Steps
-- Fill in product/invoice details in the UI.
-- Connect frontend to smart contract (update payloads/address as needed).
-- Polish UI/UX for demo.
-
----
 
 **Made for AllScale + TON Hackathon** 
