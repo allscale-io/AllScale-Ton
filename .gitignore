@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+web/node_modules/
+server/node_modules/
+
+# Build output
+dist/
+build/
+web/dist/
+server/dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Environment files
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+
+# Misc
+package-lock.json
+yarn.lock

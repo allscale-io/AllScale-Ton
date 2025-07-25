@@ -1,0 +1,6 @@
+{
+  "manifest_version": "0.1",
+  "name": "AllScale TON Mini App",
+  "iconUrl": "https://raw.githubusercontent.com/ton-blockchain/ton-assets/master/ton/icon.png",
+  "url": "http://localhost:5173"
+} 
